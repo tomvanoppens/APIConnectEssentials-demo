@@ -1,0 +1,9 @@
+configurationset:
+  - configuration:
+      name: weather_config
+      key: 2110b3198f4545a2963180634242204
+      stepzen.queryextensionguard: "true"
+  - configuration:
+      name: mongodb
+      apikey: oZF44voiSUiSZSoBgFLleIZdVR8RlLp4mW00XWDUT1m7FidpFRDA8HCxC9Yc4RMj
+      appid: application-0-mdmfdyo

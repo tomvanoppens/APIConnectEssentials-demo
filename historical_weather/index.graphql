@@ -1,0 +1,115 @@
+type Astro {
+  moon_illumination: Int
+  moon_phase: String
+  moonrise: String
+  moonset: String
+  sunrise: String
+  sunset: String
+}
+
+type Condition {
+  code: Int
+  icon: String
+  text: String
+}
+
+type Condition1 {
+  code: Int
+  icon: String
+  text: String
+}
+
+type Day {
+  avghumidity: Int
+  avgtemp_c: Int
+  avgtemp_f: Float
+  avgvis_km: Int
+  avgvis_miles: Int
+  condition: Condition
+  daily_chance_of_rain: Int
+  daily_chance_of_snow: Int
+  daily_will_it_rain: Int
+  daily_will_it_snow: Int
+  maxtemp_c: Float
+  maxtemp_f: Float
+  maxwind_kph: Float
+  maxwind_mph: Float
+  mintemp_c: Float
+  mintemp_f: Float
+  totalprecip_in: Int
+  totalprecip_mm: Float
+  totalsnow_cm: Int
+  uv: Int
+}
+
+type Forecast {
+  forecastday: [ForecastdayEntryPredict]
+}
+
+type ForecastdayEntryPredict {
+  astro: Astro
+  date: Date
+  date_epoch: Int
+  day: Day
+  hour: [HourEntry]
+}
+
+type HourEntry {
+  chance_of_rain: Int
+  chance_of_snow: Int
+  cloud: Int
+  condition: Condition1
+  dewpoint_c: Float
+  dewpoint_f: Float
+  feelslike_c: Float
+  feelslike_f: Float
+  gust_kph: Float
+  gust_mph: Float
+  heatindex_c: Float
+  heatindex_f: Float
+  humidity: Int
+  is_day: Int
+  precip_in: Int
+  precip_mm: Float
+  pressure_in: Float
+  pressure_mb: Int
+  snow_cm: Int
+  temp_c: Float
+  temp_f: Float
+  time: String
+  time_epoch: Int
+  uv: Int
+  vis_km: Int
+  vis_miles: Int
+  will_it_rain: Int
+  will_it_snow: Int
+  wind_degree: Int
+  wind_dir: String
+  wind_kph: Float
+  wind_mph: Float
+  windchill_c: Float
+  windchill_f: Float
+}
+
+type Location_hist {
+  country: String
+  lat: Float
+  localtime: String
+  localtime_epoch: Int
+  lon: Float
+  name: String
+  region: String
+  tz_id: String
+}
+
+type historical {
+  forecast: Forecast
+  location: Location_hist
+}
+
+type Query {
+  historical(dt: String!, key: String!, q: String!): historical
+    @rest(endpoint: "http://api.weatherapi.com/v1/history.json?key=$key&dt=$dt&q=$q"
+          configuration: "weather_config"
+    )
+}

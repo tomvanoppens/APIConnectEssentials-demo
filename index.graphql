@@ -1,0 +1,11 @@
+schema
+  @sdl(
+    files: [
+      "weather/index.graphql"
+      "historical_weather/index.graphql"
+      "curl/index.graphql"
+      "mongo/sample_mongo.graphql"
+    ]
+  ) {
+  query: Query
+}
