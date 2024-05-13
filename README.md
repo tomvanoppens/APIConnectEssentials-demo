@@ -58,7 +58,7 @@ Here we can add filter: "cuisine==\"American\"" to our Query and it will filter 
 Now we can even include weather for our restaurants (using @materializer directive with address.coord and weather api), get mean restaurant score(using @ecmascript or @jsonata) etc.
 
 
-### (Airbnb dataset)[https://www.mongodb.com/docs/atlas/sample-data/sample-airbnb/#std-label-sample-airbnb]
+### [Airbnb dataset](https://www.mongodb.com/docs/atlas/sample-data/sample-airbnb/#std-label-sample-airbnb)
 
 Under [mongo_bnb](./mongo_bnb/sample_mongo.graphql) we define types such as Review, Host, Listing.
 
