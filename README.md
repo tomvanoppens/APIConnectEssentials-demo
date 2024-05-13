@@ -31,7 +31,45 @@ All of these can be mixed and included easily with Stepzen integration capabilit
 
 ## MONGODB
 
-TBD: I am issuing mongodb.data.endpoint doesn't exists error
+Please follow this official [stepzen tutorial](https://github.com/stepzen-dev/examples/tree/main/with-mongodb-atlas#set-up-mongodb) to setup MongoDB cluster.
+
+> **_NOTE:_**  You will need to enable Data API.![alt text](image.png)
+
+In this tutorial (mongodb available sample datasets)[https://www.mongodb.com/docs/atlas/sample-data/#available-sample-datasets] will be loaded.
+
+### (Restaurants dataset)[https://www.mongodb.com/docs/atlas/sample-data/sample-restaurants/#std-label-sample-restaurants]
+
+
+We will use mongodb Data API and transform it with StepZen.
+
+In [mongo_restaurants](./mongo_restaurants/index.graphql) we define types such as Grade, Restaraunt_Address and Restaraunt.
+
+You can see that in this example in query we are using mongodb find query, and that wee need to provide api-key( defined under config.yaml).
+
+
+If we start StepZen we can run various queries.
+![Restaurant query](image-1.png)
+i.e. this [query](./mongo_restaurants/query-Americans.txt) will use Mongo filter to filter only American cuisine restaurants - [output](./mongo_restaurants/query-Americans.json).
+
+You can use all of mongo query features such as limit,sort etc.
+
+Here we can add filter: "cuisine==\"American\"" to our Query and it will filter restaurants by cuisine on api level, database filter will not be included.
+
+Now we can even include weather for our restaurants (using @materializer directive with address.coord and weather api), get mean restaurant score(using @ecmascript or @jsonata) etc.
+
+
+### (Airbnb dataset)[https://www.mongodb.com/docs/atlas/sample-data/sample-airbnb/#std-label-sample-airbnb]
+
+Under [mongo_bnb](./mongo_bnb/sample_mongo.graphql) we define types such as Review, Host, Listing.
+
+Again, we can use mongo filter to find any kind of accommodation, but in this example with api-level filter: "beds > 2 && number_of_reviews > 50" , we are interesting only in ones that have more then 2 bads and many reviews.
+
+Here we can also apply various kind of filtering and sorting - using ecmascript or jsonata.
+
+IDEA(ADVANCED): maybe you can try to join airbnb and restaurants and 3rd party location api to get closest restaurant to chosen accommodation . 
+
+
+
 
 
 

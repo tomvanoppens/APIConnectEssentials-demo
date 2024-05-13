@@ -4,7 +4,8 @@ schema
       "weather/index.graphql"
       "historical_weather/index.graphql"
       "curl/index.graphql"
-      "mongo/sample_mongo.graphql"
+      "mongo_bnb/sample_mongo.graphql"
+      "mongo_restaurants/index.graphql"
     ]
   ) {
   query: Query

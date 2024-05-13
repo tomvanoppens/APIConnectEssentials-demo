@@ -1,0 +1,146 @@
+{
+    "data": {
+      "historical": {
+        "location": {
+          "country": "United Kingdom",
+          "lat": 51.52,
+          "lon": -0.11,
+          "localtime": "2024-05-02 23:14",
+          "region": "City of London, Greater London"
+        },
+        "forecast": {
+          "forecastday": [
+            {
+              "date": "2024-01-02",
+              "day": {
+                "daily_chance_of_rain": 100,
+                "daily_will_it_rain": 1
+              },
+              "hour": [
+                {
+                  "feelslike_c": 8.3,
+                  "heatindex_c": 11.3,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 9.1,
+                  "heatindex_c": 11.9,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 9,
+                  "heatindex_c": 11.6,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.4,
+                  "heatindex_c": 11.1,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.4,
+                  "heatindex_c": 10.9,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.1,
+                  "heatindex_c": 10.6,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.5,
+                  "heatindex_c": 10.9,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.6,
+                  "heatindex_c": 10.9,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.6,
+                  "heatindex_c": 11,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 8.9,
+                  "heatindex_c": 11.3,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 9.8,
+                  "heatindex_c": 12.3,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 10,
+                  "heatindex_c": 12.7,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 9.5,
+                  "heatindex_c": 12.4,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 9.6,
+                  "heatindex_c": 12.6,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 10.4,
+                  "heatindex_c": 13.3,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 8.2,
+                  "heatindex_c": 11.7,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 7.7,
+                  "heatindex_c": 11.5,
+                  "uv": 3
+                },
+                {
+                  "feelslike_c": 6.2,
+                  "heatindex_c": 10.5,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 5.1,
+                  "heatindex_c": 9.4,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 5.9,
+                  "heatindex_c": 9.5,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 6,
+                  "heatindex_c": 9.4,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 7.1,
+                  "heatindex_c": 10.5,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 6.7,
+                  "heatindex_c": 10,
+                  "uv": 1
+                },
+                {
+                  "feelslike_c": 6.4,
+                  "heatindex_c": 9.8,
+                  "uv": 1
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

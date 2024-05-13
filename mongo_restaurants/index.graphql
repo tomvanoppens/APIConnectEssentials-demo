@@ -1,0 +1,43 @@
+type Query {
+  restaurants(
+    dataSource: String! = "PerinKlaster"
+    collection: String! = "restaurants"
+    database: String! = "sample_restaurants"
+    filter: MongoFilter 
+    projection: MongoProjection 
+    sort: MongoSort 
+    limit: Int
+    skip: Int
+  ): [Restaurant]
+    @rest(
+      endpoint: "https://data.mongodb-api.com/app/$appid/endpoint/data/v1/action/find"
+      method: POST
+      headers: [{ name: "api-key", value: "$apikey" }{ name: "Content-Type", value: "application/json" }]
+      configuration: "mongodb"
+      resultroot: "documents[]"
+      filter: "cuisine==\"American\""
+    )
+}
+
+type Grade {
+    date: DateTime
+    grade: String
+    score: Int
+}
+
+type Restaurant_Address{
+    building: String
+    coord: [Float]
+    street: String
+    zipcode: String
+}
+
+type Restaurant {
+   _id : String
+   address : Restaurant_Address
+   borough: String
+   cuisine: String
+   grades: [Grade]
+   name: String
+   restaurant_id: String
+}

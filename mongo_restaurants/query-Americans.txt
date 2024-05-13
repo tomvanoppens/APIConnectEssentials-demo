@@ -1,0 +1,28 @@
+query MyQuery($filter: MongoFilter) {
+  restaurants(limit: 10,sort: "", filter: $filter) {
+    cuisine
+    borough
+    address {
+      coord
+      street
+      zipcode
+      building
+    }
+    grades {
+      date
+      grade
+      score
+    }
+    name
+    restaurant_id
+  }
+}
+
+
+query-variables:
+
+{
+  "filter": {
+    "cuisine": "American"
+  }
+}

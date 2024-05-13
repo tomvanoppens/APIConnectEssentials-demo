@@ -1,0 +1,467 @@
+{
+    "data": {
+      "listings": [
+        {
+          "beds": 1,
+          "cancellation_policy": "flexible",
+          "description": "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+          "extra_people": "0.00",
+          "house_rules": "",
+          "security_deposit": null,
+          "summary": "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10021707",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "Smoke detector",
+            "Carbon monoxide detector",
+            "Essentials",
+            "Lock on bedroom door"
+          ],
+          "number_of_reviews": 1,
+          "review_scores": {
+            "review_scores_cleanliness": 10,
+            "review_scores_location": 8,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 1,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        },
+        {
+          "beds": 1,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "Murphy bed, optional second bedroom available. Wifi available, Hulu, Netflix, TV Eat-in kitchen. Bathroom with great shower/bath.  Washer/dryer in basement. New York City! Great neighborhood - many terrific restaurants, bakeries, bagelries. Within easy walking distance are restaurants with the cuisines from India, Thailand, Japan, China, Mexico, South America and Europe.  As well as the many small independent stores that line Broadway, there chain stores such as Urban Outfitters (clothing), Whole Foods (groceries), Sephora (cosmetics), Michaels (crafts), and Modell's (sporting goods). Equidistant to Central Park and Riverside Park which have walking/running/biking trails as well as tennis and racquet ball courts. 10-15 blocks from Columbia University between Broadway and Amsterdam. The International Hostel across the street is an airport shuttle bus and double-decker tour bus stop.  The Hostel also has services available to the neighborhood such as lectures, brochures, etc. Convenientl",
+          "extra_people": "0.00",
+          "house_rules": "No smoking is permitted in the apartment. All towels that are used should be placed in the bath tub upon departure. I have a cat, Samantha, who can stay or go, whichever is preferred.   Please text me upon departure.",
+          "security_deposit": "0.00",
+          "summary": "",
+          "maximum_nights": "360",
+          "listing_url": "https://www.airbnb.com/rooms/1003530",
+          "last_scraped": "2019-03-07T05:00:00Z",
+          "amenities": [
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Elevator",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "Family/kid friendly",
+            "Washer",
+            "Dryer",
+            "translation missing: en.hosting_amenity_50"
+          ],
+          "number_of_reviews": 70,
+          "review_scores": {
+            "review_scores_cleanliness": 9,
+            "review_scores_location": 10,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 2,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": "By now I have lived longer in the city than the country however I feel equally at home in each. I like to keep one foot in each and help others to do the same!"
+          }
+        },
+        {
+          "beds": 2,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "Loft Suite Deluxe @ Henry Norman Hotel Located in Greenpoint, Brooklyn and housed in a converted 19th-century warehouse, the Henry Norman Hotel features modern lofts and suites with hardwood floors, antiques and contemporary art. This loft unit features a kitchenette and is fully equipped with everything you need for your stay. The Loft Suite Deluxe has an alcove bedroom area with a Queen size bed and a comfortable pull-out sofa in the living room area, which in total can easily sleep up to 4 guests. The loft is equipped with 42\" LCD HD TVs in both the living and bedroom areas with premium cable channels (HBO, Showtime & more). There are hardwood floors throughout and a full bathroom with shower/tub combination. Sleeps up to 4 guests. Guest will have access to common terraces, lounge area, business center with 2 iMac computers, fitness center with dry sauna and steam shower, and laundry room. Greenpoint is an artsy Brooklyn neighborhood filled with great restaurants, cafes, and shops.",
+          "extra_people": "0.00",
+          "house_rules": "Guest must leave a copy of credit card with front desk for any incidentals/ damages with a copy of valid ID. There are no additional charges than what has been paid in advance.",
+          "security_deposit": null,
+          "summary": "Loft Suite Deluxe @ Henry Norman Hotel Located in Greenpoint, Brooklyn and housed in a converted 19th-century warehouse, the Henry Norman Hotel features modern lofts and suites with hardwood floors, antiques and contemporary art.",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10057826",
+          "last_scraped": "2019-03-07T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Cable TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Doorman",
+            "Gym",
+            "Elevator",
+            "Heating",
+            "Family/kid friendly",
+            "Washer",
+            "Dryer",
+            "Smoke detector",
+            "Carbon monoxide detector",
+            "First aid kit",
+            "Fire extinguisher",
+            "Essentials",
+            "Shampoo",
+            "24-hour check-in",
+            "Hangers",
+            "Hair dryer",
+            "Iron"
+          ],
+          "number_of_reviews": 5,
+          "review_scores": {
+            "review_scores_cleanliness": 10,
+            "review_scores_location": 9,
+            "review_scores_accuracy": 9,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 4,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        },
+        {
+          "beds": 1,
+          "cancellation_policy": "flexible",
+          "description": "A comfortable one bedroom for responsible guests. Plenty of natural light. Walk up building. You'll feel like a local staying in this residential neighborhood, right next to great food, bars, subways, the High Line, Chelsea Piers, etc. *I listed this place late so can be flexible for you. I'm quick to respond - contact me and let's discuss whether we can make something work for you asap* Sorry about the lack of pictures. Will link you to Streeteasy when you reply. There is a small (regular for NYC) bedroom, a living room with couches and a TV (with apple tv but only basic cable), a kitchen, and a bathroom. It is in a walk up building a couple of flights up. Need relatively quiet guests for this residential building - definitely not a place for your weekend party. I am available to help you any time and will provide a cell # for questions. When I let you in, I'll also be able to answer any questions and point you to restaurants and local attractions. Chelsea is considered a high end nei",
+          "extra_people": "0.00",
+          "house_rules": "This is my \"real\" apartment not one of those places that is constantly airbnb'd. Feel free to use the appliances or even pour yourself a drink at the bar but guests will need to be respectful of all of the things in the apartment which are not yours and also to the neighbors.",
+          "security_deposit": null,
+          "summary": "A comfortable one bedroom for responsible guests. Plenty of natural light. Walk up building. You'll feel like a local staying in this residential neighborhood, right next to great food, bars, subways, the High Line, Chelsea Piers, etc.",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10096773",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Internet",
+            "Wifi",
+            "Kitchen",
+            "Heating",
+            "Smoke detector",
+            "Carbon monoxide detector",
+            "Fire extinguisher",
+            "Essentials"
+          ],
+          "number_of_reviews": 1,
+          "review_scores": {
+            "review_scores_cleanliness": 10,
+            "review_scores_location": 10,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 2,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": "I am pretty much your average early/mid career working professional in NYC."
+          }
+        },
+        {
+          "beds": 1,
+          "cancellation_policy": "flexible",
+          "description": "Dear guests, Would you just like to live in the heart of the city that you would be eligible to go anywhere? If yes, you found the right place! It is a 1 bedroom apartment that can hold 3 people easily. The living room is spacious and there are enough places to seat groups. The apartment is facing the street, so, the house is not blocked by other buildings and the sun enters the living room. You can access to the rooftop where you have a beautiful view of Empire State Building on your right and Freedom Tower on your left. I will always be on contact if you need anything before and during your stay. Lower East Side is one of the most fascinating neighborhoods in New York City. Throughout it's history, LES had been an active and fun area where you can find basically everything you want and need. I can give a small history of the area once you arrive since I just wrote an article about it:) 2nd Avenue F station is 30 seconds walking distance. Delancey Street J M Z trains are few blocks aw",
+          "extra_people": "0.00",
+          "house_rules": "",
+          "security_deposit": "200.00",
+          "summary": "Dear guests, Would you just like to live in the heart of the city that you would be eligible to go anywhere? If yes, you found the right place!",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10120414",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Buzzer/wireless intercom",
+            "Family/kid friendly",
+            "Washer",
+            "Dryer",
+            "Essentials",
+            "Shampoo",
+            "24-hour check-in",
+            "Hangers",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace"
+          ],
+          "number_of_reviews": 0,
+          "review_scores": {
+            "review_scores_cleanliness": null,
+            "review_scores_location": null,
+            "review_scores_accuracy": null,
+            "review_scores_checkin": null
+          },
+          "accommodates": 3,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": "Hello to prospect guests and hosts,\r\nI am an international student from Istanbul/Turkey studying in New York, which I believe are the two most wonderful cities in the world that everyone should visit. \r\nThere are two things in life that I really like to do; traveling and making music. When two combined, it encourages me to discover ethnic music all around the world. In addition to that, I love meeting new people and always helpful to make people feel comfortable. "
+          }
+        },
+        {
+          "beds": 2,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "Near 70th and 1st.  A very nice 6th floor walk-up with true 2 bedrooms and one bath. Full Kitchen. One bedroom has a queen and the other a double.  Living room has a couch you could sleep on too. New powerful air conditioner cools whole apt. Great area with restaurants, shopping and walk to Central Park Please contact us first if reserving on same day, we might need time to arrange for keys. Holiday weekends we prefer 3 night stays. Thank you! The space is one block away from the new second avenue subway... The Q line which gets you into times sqaure/heralds square in ten minutes. We are able to be reached during your stay. Walk to Central Park or Madison ave shops.  Plenty of restaurants, pizza and great bagel shop.",
+          "extra_people": "0.00",
+          "house_rules": "",
+          "security_deposit": "0.00",
+          "summary": "Near 70th and 1st.  A very nice 6th floor walk-up with true 2 bedrooms and one bath. Full Kitchen. One bedroom has a queen and the other a double.  Living room has a couch you could sleep on too. New powerful air conditioner cools whole apt. Great area with restaurants, shopping and walk to Central Park Please contact us first if reserving on same day, we might need time to arrange for keys. Holiday weekends we prefer 3 night stays. Thank you!",
+          "maximum_nights": "7",
+          "listing_url": "https://www.airbnb.com/rooms/10133350",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Cable TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Pets allowed",
+            "Pets live on this property",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "Family/kid friendly",
+            "Essentials",
+            "Shampoo",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace"
+          ],
+          "number_of_reviews": 9,
+          "review_scores": {
+            "review_scores_cleanliness": 8,
+            "review_scores_location": 9,
+            "review_scores_accuracy": 9,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 5,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        },
+        {
+          "beds": 1,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "A private small bedroom in a 2 BR 1BA apartment. There’s no living area as I converted to live in. The location is 2 minutes to Q33 bus stop, 5 minutes to 7 train station ( which directly takes you to Times Square in 35-40 minutes ). The bedroom has a queen bed, a closet, a mini fridge, outlets, USB ports, wifi, and AC. Kitchen is not provided to use. Guest have access to the bedroom and bathroom only. This apartment has my husband and me. This place also has a chinchilla and a French Bulldog. We are living in this apartment in a living area. And we are offering an actual room for your privacy. I would be very happy to welcome all dog lovers because our frenchie loves to interact with people. So feel free to contact me if you have any questions :) This elevator building is located in a great neighborhood where there are many great restaurants from all parts of the world ( Latin American, Indian, Thai, Japanese, Filipino and the list goes on) .  The building is also conveniently near ma",
+          "extra_people": "10.00",
+          "house_rules": "* check-in time AFTER 5:00 pm. Guest is required to communicate and update by messaging AT LEAST 30 MINUTES prior your arrival. NO EARLY CHECK-IN to keep the other guest's privacy.  * STRICT CHECK-OUT TIME IS 11:00 AM. There will be an extra night charge for late check-out with no prior approval * Guest's visitors are not allowed to come in without prior approval * Please take off your shoes at the entrance of the apartment. Per AirBnB’s policy, no 3rd-party bookings",
+          "security_deposit": "0.00",
+          "summary": "A private small bedroom in a 2 BR 1BA apartment. There’s no living area as I converted to live in. The location is 2 minutes to Q33 bus stop, 5 minutes to 7 train station ( which directly takes you to Times Square in 35-40 minutes ).",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10138784",
+          "last_scraped": "2019-03-07T05:00:00Z",
+          "amenities": [
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Pets live on this property",
+            "Dog(s)",
+            "Other pet(s)",
+            "Elevator",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "First aid kit",
+            "Essentials",
+            "Shampoo",
+            "Hangers",
+            "Hair dryer",
+            "translation missing: en.hosting_amenity_49",
+            "translation missing: en.hosting_amenity_50",
+            "Hot water",
+            "Bed linens",
+            "Host greets you"
+          ],
+          "number_of_reviews": 123,
+          "review_scores": {
+            "review_scores_cleanliness": 10,
+            "review_scores_location": 9,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 2,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        },
+        {
+          "beds": 1,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "NOTES: BEFORE BOOKING, PLEASE KNOW THAT WE ARE LOCATED ON THE 3RD FLOOR OF A WALK UP BUILDING (3 SHORT FLIGHT OF (Website hidden by Airbnb) IF YOU HAVE TROUBLE CLIMBING STAIRS, BE ADVISED, THANKS! THE CHECK-IN TIME IS STRICTLY BETWEEN 1PM-10PM.. AND CHECK OUT IS 11AM THIS LISTING IS ONLY FOR A BEDROOM AND NOT THE ENTIRE APARTMENT. our place is a good sized apartment in a very quiet neighborhood. the bedroom is clean and cozy with a queen sized bed, so you can get all the rest you need. you can use the living room and kitchen. we also have a piano, so if you know how to play,you are free to do so! one of us will try to help you in your needs through out your stay. our neighborhood is basically peaceful, there a lot of children because the school bus picks them up by the corner. but all in all, its a quiet and friendly place to live. subway is about 5-8 minutes away by foot. there is street parking.",
+          "extra_people": "10.00",
+          "house_rules": "No shoes allowed inside the apartment. Be polite, and we will get along :)",
+          "security_deposit": null,
+          "summary": "NOTES: BEFORE BOOKING, PLEASE KNOW THAT WE ARE LOCATED ON THE 3RD FLOOR OF A WALK UP BUILDING (3 SHORT FLIGHT OF (Website hidden by Airbnb) IF YOU HAVE TROUBLE CLIMBING STAIRS, BE ADVISED, THANKS! THE CHECK-IN TIME IS STRICTLY BETWEEN 1PM-10PM.. AND CHECK OUT IS 11AM THIS LISTING IS ONLY FOR A BEDROOM AND NOT THE ENTIRE APARTMENT.",
+          "maximum_nights": "10",
+          "listing_url": "https://www.airbnb.com/rooms/10140368",
+          "last_scraped": "2019-03-07T05:00:00Z",
+          "amenities": [
+            "Wifi",
+            "Kitchen",
+            "Free street parking",
+            "Heating",
+            "Family/kid friendly",
+            "Smoke detector",
+            "Carbon monoxide detector",
+            "Essentials",
+            "Shampoo",
+            "Lock on bedroom door",
+            "Hangers",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace",
+            "translation missing: en.hosting_amenity_50",
+            "Private entrance",
+            "Hot water",
+            "Host greets you"
+          ],
+          "number_of_reviews": 239,
+          "review_scores": {
+            "review_scores_cleanliness": 10,
+            "review_scores_location": 9,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 2,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": "Hello. I am a very passionate person with whatever I do. I love adventures and travelling. \r\nI love meeting and talking to people of any race, color and gender. I think I can learn something from every person I meet and I value learning so much that  \r\n\r\nHope to meet new friendships on my travels. "
+          }
+        },
+        {
+          "beds": 4,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "Spacious 3 bedroom apartment. 2 are railroad style (must go through one to get to the next) and the additional bedroom is at opposite end of the apartment for extra privacy. Well equipped open kitchen. Large living room with additional fold out couch. Great apt for a weekend in NYC.  10 min walk to Central Park. Beautiful Railroad style NYC apartment with exposed brick. Larger than what most people expect to get in NYC. Located in and old Italian neighborhood that has slowly turned into El barrio (The latin neighborhood of manhattan). This combination is amazing since you will be staying next to one of NYC's oldest brick oven pizzeria, Patsy's, and one of NYC's best Italian restaurants RAO's, plus a plethora of LatinAmerican and Mexican restaurants at walking distance. You have access to the whole apartment except for 3 closets. Anything that you need just call or text us. East harlem is a very diverse neighborhood with people of all backgrounds. The apartment is half a block away from",
+          "extra_people": "19.00",
+          "house_rules": "No smoking tobacco. Not allowed to go to other floors or rooftop.",
+          "security_deposit": "199.00",
+          "summary": "Spacious 3 bedroom apartment. 2 are railroad style (must go through one to get to the next) and the additional bedroom is at opposite end of the apartment for extra privacy. Well equipped open kitchen. Large living room with additional fold out couch. Great apt for a weekend in NYC.  10 min walk to Central Park.",
+          "maximum_nights": "6",
+          "listing_url": "https://www.airbnb.com/rooms/10166883",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Paid parking off premises",
+            "Free street parking",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "Smoke detector",
+            "Carbon monoxide detector",
+            "Essentials",
+            "Shampoo",
+            "24-hour check-in",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace",
+            "translation missing: en.hosting_amenity_49",
+            "translation missing: en.hosting_amenity_50",
+            "Hot water",
+            "Microwave",
+            "Refrigerator",
+            "Dishes and silverware",
+            "Cooking basics",
+            "Oven",
+            "Stove",
+            "Single level home",
+            "Other"
+          ],
+          "number_of_reviews": 22,
+          "review_scores": {
+            "review_scores_cleanliness": 9,
+            "review_scores_location": 9,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 9,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        },
+        {
+          "beds": 2,
+          "cancellation_policy": "strict_14_with_grace_period",
+          "description": "Amazing Apt : 1 bdrm/1 bathroom furnished, New building with a doorman, jacuzzi, gym, pool, and roofdeck with an amazing Manhattan view.  Very good location : 4-Minutes walk to the L subway station, then Just 3 stops away from Manhattan. Accept only reservation for minimum 3 nights.",
+          "extra_people": "0.00",
+          "house_rules": "",
+          "security_deposit": null,
+          "summary": "Amazing Apt : 1 bdrm/1 bathroom furnished, New building with a doorman, jacuzzi, gym, pool, and roofdeck with an amazing Manhattan view.  Very good location : 4-Minutes walk to the L subway station, then Just 3 stops away from Manhattan.",
+          "maximum_nights": "1125",
+          "listing_url": "https://www.airbnb.com/rooms/10166986",
+          "last_scraped": "2019-03-06T05:00:00Z",
+          "amenities": [
+            "TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Wheelchair accessible",
+            "Pool",
+            "Kitchen",
+            "Doorman",
+            "Gym",
+            "Elevator",
+            "Hot tub",
+            "Buzzer/wireless intercom",
+            "Heating",
+            "Family/kid friendly",
+            "Washer",
+            "Dryer",
+            "Smoke detector",
+            "Essentials",
+            "24-hour check-in",
+            "Hangers",
+            "Iron"
+          ],
+          "number_of_reviews": 1,
+          "review_scores": {
+            "review_scores_cleanliness": 8,
+            "review_scores_location": 10,
+            "review_scores_accuracy": 10,
+            "review_scores_checkin": 10
+          },
+          "accommodates": 4,
+          "address": {
+            "country": "United States",
+            "market": "New York"
+          },
+          "host": {
+            "host_about": ""
+          }
+        }
+      ]
+    }
+  }

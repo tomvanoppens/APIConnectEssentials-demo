@@ -1,0 +1,38 @@
+query MyQuery {
+  listings(limit: 10, sort: "", filter: "") {
+    beds
+    cancellation_policy
+    description
+    extra_people
+    house_rules
+    security_deposit
+    summary
+    maximum_nights
+    listing_url
+    last_scraped
+    amenities
+    address {
+      country
+      government_area
+      market
+    }
+    number_of_reviews
+    review_scores {
+      review_scores_cleanliness
+      review_scores_location
+      review_scores_checkin
+      review_scores_accuracy
+      review_scores_communication
+      review_scores_value
+    }
+    accommodates
+  }
+}
+
+
+
+{
+  "filter": {
+    "address.market": "New York"
+  }
+}
