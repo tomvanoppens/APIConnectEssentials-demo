@@ -35,7 +35,7 @@ Please follow this official [stepzen tutorial](https://github.com/stepzen-dev/ex
 
 > **_NOTE:_**  You will need to enable Data API.![alt text](image.png)
 
-In this tutorial (mongodb available sample datasets)[https://www.mongodb.com/docs/atlas/sample-data/#available-sample-datasets] will be loaded.
+In this tutorial [mongodb available sample datasets](https://www.mongodb.com/docs/atlas/sample-data/#available-sample-datasets) will be loaded.
 
 ### (Restaurants dataset)[https://www.mongodb.com/docs/atlas/sample-data/sample-restaurants/#std-label-sample-restaurants]
 
