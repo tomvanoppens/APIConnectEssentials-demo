@@ -1,9 +1,9 @@
 configurationset:
   - configuration:
       name: weather_config
-      key: 2110b3198f4545a2963180634242204
+      key: REPLACE_WITH_YOUR_DATA_API_KEY
       stepzen.queryextensionguard: "true"
   - configuration:
       name: mongodb
-      apikey: F3g9mrhFZOzjqBCIV0PkxcT1ua91pcaIbVvfy7QgR6mJXfP9QkmJv8AKiaOV1kpA
-      appid: data-bhvwonr
+      apikey: REPLACE_WITH_YOUR_DATA_API_KEY
+      appid: REPLACE_WITH_YOUR_DATA_API_APP_ID
